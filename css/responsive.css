@@ -1,0 +1,4 @@
+@media(max-width:480px){
+    .column-left{display: none;}
+    .column-right{margin-left: 150px; width: 400px;}
+}
